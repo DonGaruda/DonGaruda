@@ -22,9 +22,9 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harini harini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harini harini" height="30" width="40" /></a>
-<a href="https://instagram.com/_hazxnx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hazxnx_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sniffer 66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sniffer 66" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kishore-s-4168572b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harini harini" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kishore_the_arrogant?igsh=MW12eTF1Ynhpcmdveg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hazxnx_" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
