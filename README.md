@@ -1,6 +1,6 @@
 <img  alt="Harinii" height ="350px" width="100%" src="./e.gif">
 <h1 align="center">Hi 👋, I'm KISHORE</h1>
-<h3 align="center">A passionate frontend developer!! Aspiring ui ux developer!!</h3>
+<h3 align="center">A passionate Frontend Developer!! Aspiring UI / UX Designer!!</h3>
 
 <img align="right" alt="Coding" width="400" 
 src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -10,9 +10,9 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 
-- 🌱 I’m currently learning **ui ux**
+- 🌱 I’m currently learning **Interfacing IoT With Full Stack Development**
 
-- 👯 I’m looking to collaborate on **to collaborate on frontend projects...**
+- 👯 I’m looking to collaborate on **to collaborate on Web development & design projects...**
 
 - 👨‍💻 All of my projects are available at [https://kishore-portfolio-site.netlify.app/](https://kishore-portfolio-site.netlify.app/)
 
