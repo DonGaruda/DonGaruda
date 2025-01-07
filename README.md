@@ -16,7 +16,7 @@ src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 👨‍💻 All of my projects are available at [https://kishore-portfolio-site.netlify.app/](https://kishore-portfolio-site.netlify.app/)
 
-- 💬 Ask me about **Prompt Engineering**
+- 💬 Ask me about **Web Designing & Development**
 
 - 📫 How to reach me **Kishorethamizharasi@gmail.com**
 
