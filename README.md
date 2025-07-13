@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KISHORE</h1>
+<h1 align="center">Vanakkam 👋, I'm KISHORE</h1>
 <h3 align="center">A Passionate Frontend Developer | Aspiring UI/UX Designer</h3>
 
 <p align="center">
