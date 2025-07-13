@@ -1,5 +1,5 @@
-<h1 align="center">Vanakkam 👋, I'm KISHORE</h1>
-<h3 align="center">A Passionate Frontend Developer | Aspiring UI/UX Designer</h3>
+<h1 align="center">Vanakkam 🙏, I'm KISHORE</h1>
+<h3 align="center">A Passionate Frontend Developer | UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="Coding" width="50%" />
